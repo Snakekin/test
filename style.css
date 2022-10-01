@@ -1,0 +1,46 @@
+h1 {
+   font-size: 30px;
+   font-weight: bold;
+}
+
+body {
+   background-image: url("https://www.123rf.com/photo_64890103_travel-photo-collage-on-wooden-background.html");
+   background-color: coral;
+
+}
+
+h4 {
+   color: bisque;
+}
+
+#camera {
+   width: 500px;
+   height: 400px;
+   border: 1px solid gray;
+}
+
+img {
+
+   width: 37%;
+   border-radius: 4px;
+   padding: 10px;
+   box-shadow: 0 6px 8px 0px skyblue;
+
+
+}
+
+img:hover {
+   border-radius: 140px;
+
+}
+.i1{
+   display:inline;
+   padding: 10px;
+   
+}
+.copy_right_footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
